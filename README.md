@@ -35,7 +35,7 @@ Also, the top two sentiment predicing words in his tweets are "bam" and "sad", a
 
 ## Trends in time
                      
-<img src="fig9.jpg" width="425"/> <img src="figs/fig10.jpg" width="425"/> 
+<img src="figs/fig9.jpg" width="425"/> <img src="figs/fig10.jpg" width="425"/> 
 
 Here is a depressing trend: the likes DT gets on his tweets increase significantly in correspondence of election night and inauguration, and steadily increased since election night. Not only that, but his tweet rate decreased significanty. So the likes-per-tweet skyrocketed after election night.		
 
