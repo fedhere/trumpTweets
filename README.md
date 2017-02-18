@@ -11,7 +11,7 @@ So as I set off to find patterns in Trump's tweets I found that they are really 
 Here are 3200 or so tweets by DT, and I am plotting the number of likes and number of retweets. Some patterns were immediately obvious: increase popularity after election night, and again after inauguration, and decreased tweet rate after the election (remember when his campaign manager sequestered his twitter account?).
 
 The number of retweets per tweet is about 1/3 of the number of likes. I tried to disentangle the effect of dissent retweets, from the approval retweets, and there is some evidence that dissent retweets contribute to the tally:
-<a href="url"><img src="fig5.jpg" align="left" width="550" ></a>
+<a href="url"><img src="fig5.jpg" align="left" width="500" ></a>
 
 Also consider his least retweeted tweet (which still has nearly 1000 retweets).
 
