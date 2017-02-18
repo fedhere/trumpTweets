@@ -32,3 +32,13 @@ The color segregation in the plot on the left may be the indication of the effec
 
 Here is a depressing trend: the likes DT gets on his tweets increase significantly in correspondence of election night and inauguration, and steadily increased since election night. Not only that, but his tweet rate decreased significanty. So the likes-per-tweet skyrocketed after election night.		
 
+<a href="url"><img src="fig11.jpg" align="left" width="500" ></a>
+His sentiment changed to after the election: he tweeted less and his tweets were more polarized (probability of being positive was closer to 0 or 1)
+
+## Daily trands
+
+DT seems to tweet at all hours of the day, except for 8AM. Never a tweet in the 8th hour... lots and lots of tweets till 3AM, although his most popular tweets are in the morning. The late night tweets were curbed after the election. Other than that, no patterns significantly changed.
+
+<img src="fig12.jpg" width="600" align="center"/>
+<img src="fig13.jpg" width="600" align="center"/>
+
