@@ -38,7 +38,7 @@ Also, the top two sentiment predicing words in his tweets are "bam" and "sad", a
 Here is a depressing trend: the likes DT gets on his tweets increase significantly in correspondence of election night and inauguration, and steadily increased since election night. Not only that, but his tweet rate decreased significanty. So the likes-per-tweet skyrocketed after election night.		
 
 <a href="url"><img src="fig11.jpg" align="left" width="500" ></a>
-<br><br><br><br><br><br><br>
+<br><br><br><br>
 His sentiment changed to after the election: he tweeted less and his tweets were more polarized (probability of being positive was closer to 0 or 1)
 
 Here is what I am gonna do: I am gonna keep following his tweets. When I see a decrease in his twitter appreciation, I'll let you know. 
