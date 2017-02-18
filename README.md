@@ -16,6 +16,13 @@ The number of retweets per tweet is about 1/3 of the number of likes. I tried to
 <br><br><br><br>
 The color segregation in the plot on the left may be the indication of the effect of dissent retweets: the tweets are colored by the probability of being positive: yellow is likely positice, purple likely negative. Yellow tweets sit at the bottom/right of the distribution: positive tweets are retweeted less, given the same number of likes, than negative tweets.e
 
+## Sentiment analysis
+Sentiment analysis of DTs tweets is actually tricky: there is a lot of sarcarsm and passive-aggressive staements. As a result most of his tweets are just belof 50% probability of being positive (i.e. are slightly negative).
+As a result, ironic features, like his "Happy new year", which is his fourth most liked with 352747 likes, and retweeted tweet, with 143156 retweets, is classified as certainly negative (probability of being positive \<5% positive) due to the presence of words like enemies, lost, etc... and in spite of the "Love" ending:
+
+'''Happy New Year to all, including to my many enemies and those who have fought me and lost so badly they just don't know what to do. Love! '''
+
+Also, the top two sentiment predicing words in his tweets are "bam" and "sad", and runner ups include "ugh", "shame" (all very presidential), and ... "justinbieber". Make of it what you wish.
 
 
 
