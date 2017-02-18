@@ -40,8 +40,8 @@ His sentiment changed to after the election: he tweeted less and his tweets were
 
 ## Daily trands
 
-<img src="fig12.jpg" width="600" align="center"/>
-<img src="fig13.jpg" width="600" align="center"/>
+<img src="fig12.jpg" width="600" align="left"/>
+<img src="fig13.jpg" width="600" align="left"/>
 
 DT seems to tweet at all hours of the day, except for 8AM. Never a tweet in the 8th hour... lots and lots of tweets till 3AM, although his most popular tweets are in the morning. The late night tweets were curbed after the election. Other than that, no patterns significantly changed.
 
