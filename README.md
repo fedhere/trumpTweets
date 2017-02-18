@@ -26,6 +26,8 @@ The color segregation in the plot on the left may be the indication of the effec
 
 
 ## Trends in time
+                     
+                     |   
 :-------------------------:|:-------------------------:
  <a href="url"><img src="fig9.jpg" align="right" width="480" ></a> | <a href="url"><img src="fig10.jpg" align="right" width="480" ></a>]
 
