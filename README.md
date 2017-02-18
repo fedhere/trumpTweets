@@ -35,6 +35,8 @@ Here is a depressing trend: the likes DT gets on his tweets increase significant
 <a href="url"><img src="fig11.jpg" align="left" width="500" ></a>
 His sentiment changed to after the election: he tweeted less and his tweets were more polarized (probability of being positive was closer to 0 or 1)
 
+<br><br><br><br><br><br><br><br><br><br>
+
 ## Daily trands
 
 DT seems to tweet at all hours of the day, except for 8AM. Never a tweet in the 8th hour... lots and lots of tweets till 3AM, although his most popular tweets are in the morning. The late night tweets were curbed after the election. Other than that, no patterns significantly changed.
