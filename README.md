@@ -9,10 +9,10 @@ So as I set off to find patterns in Trump's tweets I found that they are really 
 
 Here are 3200 or so tweets by DT, and I am plotting the number of likes and number of retweets. Some patterns were immediately obvious: increase popularity after election night, and again after inauguration, and decreased tweet rate after the election (remember when his campaign manager sequestered his twitter account?).
 
-<a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis.ipynb"><img src="fig1.jpg" align="left" width="500" ></a>
+<a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis.ipynb"><img src="figs/fig1.jpg" align="left" width="500" ></a>
 
 The number of retweets per tweet is about 1/3 of the number of likes. I tried to disentangle the effect of dissent retweets, from the approval retweets, and there is some evidence that dissent retweets contribute to the tally:
-<a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis.ipynb"><img src="fig5.jpg" align="left" width="500" ></a>
+<a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis.ipynb"><img src="figs/fig5.jpg" align="left" width="500" ></a>
 
 Also consider his least retweeted tweet (which still has nearly 1000 retweets).
 
@@ -35,11 +35,11 @@ Also, the top two sentiment predicing words in his tweets are "bam" and "sad", a
 
 ## Trends in time
                      
-<img src="fig9.jpg" width="425"/> <img src="fig10.jpg" width="425"/> 
+<img src="figs/fig9.jpg" width="425"/> <img src="figs/fig10.jpg" width="425"/> 
 
 Here is a depressing trend: the likes DT gets on his tweets increase significantly in correspondence of election night and inauguration, and steadily increased since election night. Not only that, but his tweet rate decreased significanty. So the likes-per-tweet skyrocketed after election night.		
 
-<a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis.ipynb"><img src="fig11.jpg" align="left" width="500" ></a>
+<a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis.ipynb"><img src="figs/fig11.jpg" align="left" width="500" ></a>
 <br><br><br><br>
 His sentiment changed to after the election: he tweeted less and his tweets were more polarized (probability of being positive was closer to 0 or 1)
 
@@ -49,8 +49,8 @@ Here is what I am gonna do: I am gonna keep following his tweets. When I see a d
 
 ## Daily trands
 
-<a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis.ipynb"><img src="fig12.jpg" width="600" align="left"/></a>
-<a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis.ipynb"><img src="fig13.jpg" width="600" align="left"/></a>
+<a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis.ipynb"><img src="figs/fig12.jpg" width="600" align="left"/></a>
+<a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis.ipynb"><img src="figs/fig13.jpg" width="600" align="left"/></a>
 
 <br><br><br><br><br><br><br><br><br><br>
 
