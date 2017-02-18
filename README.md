@@ -6,6 +6,6 @@ Every morning I check twitter, first thing, while still in bed, to see if a pres
 So as I set off to find patterns in Trump's tweets I found that they are really boring and average, from a data science perspective. Nonetheless, here are some of the week patterns I found. 
 
 ## Likes and Retweets: DT's approval on twitter
-<a href="url"><img src="fig1.jpg" align="left" height="48" width="48" ></a>0
+<a href="url"><img src="fig1.jpg" align="left" width="480" ></a>
 
 
