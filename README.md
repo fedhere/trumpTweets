@@ -13,6 +13,7 @@ Here are 3200 or so tweets by DT, and I am plotting the number of likes and numb
 The number of retweets per tweet is about 1/3 of the number of likes. I tried to disentangle the effect of dissent retweets, from the approval retweets, and there is some evidence that dissent retweets contribute to the tally:
 <a href="url"><img src="fig5.jpg" align="left" width="550" ></a>
 
+<br><br><br><br>
 The color segregation in the plot on the left may be the indication of the effect of dissent retweets: the tweets are colored by the probability of being positive: yellow is likely positice, purple likely negative. Yellow tweets sit at the bottom/right of the distribution: positive tweets are retweeted less, given the same number of likes, than negative tweets.e
 
 
@@ -21,15 +22,13 @@ The color segregation in the plot on the left may be the indication of the effec
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
 ## Trends in time
                      
-Likes and counts     |   
-:-------------------------:|:-------------------------:
-![](fig9.jpg)  |  ![](fig10.jpg)
+<img src="fig9.jpg" width="425"/> <img src="fig10.jpg" width="425"/> 
 
 Here is a depressing trend: the likes DT gets on his tweets increase significantly in correspondence of election night and inauguration, and steadily increased since election night. Not only that, but his tweet rate decreased significanty. So the likes-per-tweet skyrocketed after election night.		
 
