@@ -13,17 +13,21 @@ Here are 3200 or so tweets by DT, and I am plotting the number of likes and numb
 The number of retweets per tweet is about 1/3 of the number of likes. I tried to disentangle the effect of dissent retweets, from the approval retweets, and there is some evidence that dissent retweets contribute to the tally:
 <a href="url"><img src="fig5.jpg" align="left" width="550" ></a>
 
-<br><br><br><br>
+Also consider his least retweeted tweet (which still has nearly 1000 retweets).
+
+    "@jrector34: @realDonaldTrump Amazing job"
+    
+It is DT citing a random tweet in his support from an account without picture, started on April 2015, which has 82 followers and some 750 tweets, ALL OF THEM, as far as I can say, in support of DT. So clearly an account generated to support DT  which gets retweeted by DT to show how the people support DT, and then retweeted by 901 people. tThis is likely a fake account created to boost his approval and visibility. It's fully expected that those would exist, and this account has no other explanation. But the fact that he retweets it is very meta, and very depressing.
+
 The color segregation in the plot on the left may be the indication of the effect of dissent retweets: the tweets are colored by the probability of being positive: yellow is likely positice, purple likely negative. Yellow tweets sit at the bottom/right of the distribution: positive tweets are retweeted less, given the same number of likes, than negative tweets.e
 
 ## Sentiment analysis
 Sentiment analysis of DTs tweets is actually tricky: there is a lot of sarcarsm and passive-aggressive staements. As a result most of his tweets are just belof 50% probability of being positive (i.e. are slightly negative).
 As a result, ironic features, like his "Happy new year", which is his fourth most liked with 352747 likes, and retweeted tweet, with 143156 retweets, is classified as certainly negative (probability of being positive \<5% positive) due to the presence of words like enemies, lost, etc... and in spite of the "Love" ending:
 
-'''Happy New Year to all, including to my many enemies and those who have fought me and lost so badly they just don't know what to do. Love! '''
+    Happy New Year to all, including to my many enemies and those who have fought me and lost so badly they just don't know what to do. Love! 
 
 Also, the top two sentiment predicing words in his tweets are "bam" and "sad", and runner ups include "ugh", "shame" (all very presidential), and ... "justinbieber". Make of it what you wish.
-
 
 
 
@@ -37,7 +41,9 @@ Here is a depressing trend: the likes DT gets on his tweets increase significant
 <br><br><br><br><br><br><br>
 His sentiment changed to after the election: he tweeted less and his tweets were more polarized (probability of being positive was closer to 0 or 1)
 
-<br><br><br><br><br><br><br><br><br><br>
+Here is what I am gonna do: I am gonna keep following his tweets. When I see a decrease in his twitter appreciation, I'll let you know. 
+
+<br><br><br><br>
 
 ## Daily trands
 
