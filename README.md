@@ -27,12 +27,6 @@ Also, the top two sentiment predicing words in his tweets are "bam" and "sad", a
 
 
 
-
-
-<br><br><br><br><br><br><br><br><br><br>
-
-
-
 ## Trends in time
                      
 <img src="fig9.jpg" width="425"/> <img src="fig10.jpg" width="425"/> 
