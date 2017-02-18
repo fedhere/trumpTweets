@@ -29,5 +29,5 @@ The color segregation in the plot on the left may be the indication of the effec
 
 Here is a depressing trend: the likes DT gets on his tweets increase significantly in correspondence of election night and inauguration, and steadily increased since election night. Not only that, but his tweet rate decreased significanty. So the likes-per-tweet skyrocketed after election night.
 
-<a href="url"><img src="fig9.jpg" align="left" width="480" ></a>
+<a href="url"><img src="fig9.jpg" align="right" width="480" ></a>
 <a href="url"><img src="fig10.jpg" align="right" width="480" ></a>
