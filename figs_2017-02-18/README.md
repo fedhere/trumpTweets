@@ -11,4 +11,4 @@
 <img src="fig10.jpg" width="425"/>
 <img src="fig11.jpg" width="425"/>
 <img src="fig12.jpg" width="425"/>
-<img src="fig13jpg" width="425"/>
+<img src="fig13.jpg" width="425"/>
