@@ -4,8 +4,7 @@
 <img src="fig3.jpg" width="425"/>
 <img src="fig4.jpg" width="425"/>
 <img src="fig5.jpg" width="425"/>
-<img src="fig6a.jpg" width="425"/>
-<img src="fig6b.jpg" width="425"/>
+<img src="fig6.jpg" width="425"/>
 <img src="fig7.jpg" width="425"/>
 <img src="fig8b.jpg" width="425"/>
 <img src="fig9.jpg" width="425"/>
