@@ -47,11 +47,12 @@ Here is a depressing trend: the likes DT gets on his tweets increase significant
 His sentiment changed to after the election: he tweeted less and his tweets were more polarized (probability of being positive was closer to 0 or 1)
 
 Here is what I am gonna do: I am gonna keep following his tweets. When I see a decrease in his twitter appreciation, I'll let you know. 
+<br><br><br><br>
+<br><br><br><br>
+**Update** As or March 20 the likes/retweets rate has decreased steadily since Inauguration and it is now just above what it was at election night.
+<a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis_update.ipynb"><img src="https://github.com/fedhere/trumpTweets/blob/master/figs_2017-03-19/fig1b.jpg" align="left" width="500" ></a>
+<a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis_update.ipynb"><img src="https://github.com/fedhere/trumpTweets/blob/master/figs_2017-03-19/fig2.jpg" align="left" width="500" ></a>
 
-**Update** As or March 20 the likes/retweets rate has decreased steadily since Inauguration and it is now just above what it was at election nigt.
-<a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis.ipynb"><img src="https://github.com/fedhere/trumpTweets/blob/master/figs_2017-03-19/fig2.jpg" align="left" width="500" ></a>
-<br><br><br><br>
-<br><br><br><br>
 <br><br><br><br>
 <br><br><br><br>
 
