@@ -51,7 +51,7 @@ Here is what I am gonna do: I am gonna keep following his tweets. When I see a d
 <br><br><br><br>
 
 <a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis_update.ipynb">**Update**</a> As or March 20 the likes/retweets rate has decreased steadily since inauguration, but dont get too exciter: it is still just above what it was at election night.
-<a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis_update.ipynb"><img src="https://github.com/fedhere/trumpTweets/blob/master/figs_2017-03-19/fig1b.jpg" align="left" width="423" ><img src="https://github.com/fedhere/trumpTweets/blob/master/figs_2017-03-19/fig2.jpg" align="left" width="423" ></a>
+<a href="https://github.com/fedhere/trumpTweets/blob/master/tweetsAnalysis_update.ipynb"><img src="https://github.com/fedhere/trumpTweets/blob/master/figs_2017-03-19/fig1b.jpg"  width="423" ><img src="https://github.com/fedhere/trumpTweets/blob/master/figs_2017-03-19/fig2.jpg"  width="423" ></a>
 
 <br><br><br><br>
 <br><br><br><br>
